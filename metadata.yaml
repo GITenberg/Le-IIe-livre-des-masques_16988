@@ -48,6 +48,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'French literature -- 19th century -- History and criticism'
 - !lcc 'PQ'
+- GITenberg
 tableOfContents: Francis Jammes -- Paul Fort -- Hugues Rebell -- Félix Fénéon -- Léon
   Bloy -- Jean Lorrain -- Edouard Dujardin -- Maurice Barrès -- Camille Mauclair --
   Victor Charbonnel -- Alfred Vallette -- Max Elskamp -- Henri Mazel -- Marcel Schwob
